@@ -5,6 +5,7 @@
 
 click the picture below to view the demonstration and DIY video.
 [![PicureLinkedToVideo](picture.jpg)](https://youtu.be/t1FxCKXK-P4)
+[![PicureLinkedToVideo](schematic.jpg)](https://youtu.be/t1FxCKXK-P4)
 [![PicureLinkedToVideo](circuit%20diagram.png)](https://youtu.be/t1FxCKXK-P4)
 
 
